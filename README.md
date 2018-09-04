@@ -1,7 +1,8 @@
 # check-point-client
 
 This file is an adaptation of a script downloaded from the internet, this already has a binary zip inside the script, so if you want to edit use the "vi".
-For the first run it is necessary to enter password and token manually, as there is a problem that I will be dealing with in the future for certificate acceptance.
+
+(Recomendation) For the first run it is necessary to enter password and token manually, as there is a problem that I will be dealing with in the future for certificate acceptance.
 
 Now to run manually the first time do this:
 ```bash
